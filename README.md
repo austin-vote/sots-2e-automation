@@ -4,7 +4,7 @@ A Foundry VTT module for **Pathfinder 2e** that automates the Champion's **Shiel
 
 When an enemy makes any attack against an ally protected by the champion's aura, this module automatically rolls spirit damage and posts a damage card to chat. The GM then clicks the apply button — PF2e handles weakness, resistance, immunity, and everything else.
 
-The trigger fires on **any action with the Attack trait** — Strikes, Trip, Grapple, Disarm, Shove, Knockdown, spell attacks, and more. Hit or miss, the spirit damage fires as written.
+The trigger fires on **any action with the Attack trait** — Strikes, Trip, Grapple, Disarm, Shove, Knockdown, spell attacks, and more. Hit or miss, the spirit damage fires as written.  Damage rolls with the attack trait will not trigger damage.
 
 ---
 
