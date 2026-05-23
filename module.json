@@ -2,7 +2,7 @@
   "id": "sots-2e-automation",
   "title": "Shield of the Spirits Automation",
   "description": "Automates reactive spirit damage from the PF2e Champion's Shield of the Spirits ability when enemies attack protected allies.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "compatibility": {
     "minimum": "14",
     "verified": "14"
