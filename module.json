@@ -4,8 +4,8 @@
   "description": "Automates reactive spirit damage from the PF2e Champion's Shield of the Spirits ability when enemies attack protected allies.",
   "version": "1.0.0",
   "compatibility": {
-    "minimum": "13",
-    "verified": "13"
+    "minimum": "14",
+    "verified": "14"
   },
   "relationships": {
     "systems": [
@@ -13,7 +13,7 @@
         "id": "pf2e",
         "type": "system",
         "compatibility": {
-          "minimum": "7.0.0"
+          "minimum": "8.1.2"
         }
       }
     ]

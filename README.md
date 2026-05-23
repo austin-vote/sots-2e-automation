@@ -18,8 +18,8 @@ The trigger fires on **any action with the Attack trait** — Strikes, Trip, Gra
 
 | Component | Version |
 |---|---|
-| **Foundry VTT** | v13 |
-| **PF2e System** | 7.x |
+| **Foundry VTT** | v14 |
+| **PF2e System** | 8.1.2+ |
 
 ---
 
